@@ -10,8 +10,6 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:get/get.dart';
 
 import 'package:note_book/main.dart';
-import 'package:note_book/controllers/note_controller.dart';
-import 'package:note_book/controllers/theme_controller.dart';
 
 void main() {
   group('Note Book App Tests', () {
