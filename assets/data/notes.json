@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "title": "Welcome to Note Book!",
+    "content": "This is your first note. You can edit, delete, pin, and organize your notes by categories and tags.",
+    "createdAt": 1703097600000,
+    "updatedAt": 1703097600000,
+    "category": "General",
+    "tags": ["welcome", "introduction"],
+    "isPinned": true,
+    "color": 4294967295,
+    "status": "pending"
+  },
+  {
+    "id": "2",
+    "title": "Meeting Notes",
+    "content": "Discussed project timeline and milestones. Next meeting scheduled for next week.",
+    "createdAt": 1703011200000,
+    "updatedAt": 1703011200000,
+    "category": "Work",
+    "tags": ["meeting", "project"],
+    "isPinned": false,
+    "color": 4294948607,
+    "status": "inProgress"
+  },
+  {
+    "id": "3",
+    "title": "Shopping List",
+    "content": "Groceries: milk, bread, eggs, cheese, apples, bananas. Don't forget to check the weekly specials!",
+    "createdAt": 1703184000000,
+    "updatedAt": 1703184000000,
+    "category": "Personal",
+    "tags": ["shopping", "groceries"],
+    "isPinned": false,
+    "color": 4294948607,
+    "status": "pending"
+  },
+  {
+    "id": "4",
+    "title": "Project Ideas",
+    "content": "1. Mobile app for habit tracking\n2. Web dashboard for analytics\n3. AI-powered note organizer\n4. Collaborative workspace tool",
+    "createdAt": 1703270400000,
+    "updatedAt": 1703270400000,
+    "category": "Ideas",
+    "tags": ["brainstorming", "projects", "development"],
+    "isPinned": true,
+    "color": 4294961151,
+    "status": "pending"
+  },
+  {
+    "id": "5",
+    "title": "Book Review: The Pragmatic Programmer",
+    "content": "Excellent resource for software developers. Key takeaways: DRY principle, orthogonality, and the importance of learning new technologies regularly.",
+    "createdAt": 1703356800000,
+    "updatedAt": 1703356800000,
+    "category": "Learning",
+    "tags": ["books", "programming", "review"],
+    "isPinned": false,
+    "color": 4294954751,
+    "status": "completed"
+  },
+  {
+    "id": "6",
+    "title": "Workout Plan",
+    "content": "Monday: Chest & Triceps\nTuesday: Back & Biceps\nWednesday: Legs\nThursday: Shoulders\nFriday: Cardio\nWeekend: Rest or light activity",
+    "createdAt": 1703443200000,
+    "updatedAt": 1703443200000,
+    "category": "Health",
+    "tags": ["fitness", "health", "routine"],
+    "isPinned": false,
+    "color": 4294961151,
+    "status": "inProgress"
+  },
+  {
+    "id": "7",
+    "title": "Travel Checklist",
+    "content": "Documents: passport, tickets, hotel confirmations\nClothing: weather-appropriate clothes, comfortable shoes\nElectronics: chargers, adapters, camera\nHealth: medications, first aid kit",
+    "createdAt": 1703529600000,
+    "updatedAt": 1703529600000,
+    "category": "Travel",
+    "tags": ["travel", "checklist", "planning"],
+    "isPinned": false,
+    "color": 4294967295,
+    "status": "pending"
+  },
+  {
+    "id": "8",
+    "title": "Recipe: Homemade Pizza",
+    "content": "Ingredients: flour, yeast, water, salt, olive oil, tomato sauce, mozzarella, toppings\n\nInstructions:\n1. Make dough and let rise\n2. Roll out dough\n3. Add sauce and toppings\n4. Bake at 450°F for 12-15 minutes",
+    "createdAt": 1703616000000,
+    "updatedAt": 1703616000000,
+    "category": "Cooking",
+    "tags": ["recipe", "cooking", "pizza"],
+    "isPinned": false,
+    "color": 4294948607,
+    "status": "completed"
+  },
+  {
+    "id": "9",
+    "title": "Meeting with Client",
+    "content": "Discuss project requirements, timeline, and budget. Prepare presentation slides and demo. Follow up on previous feedback.",
+    "createdAt": 1703702400000,
+    "updatedAt": 1703702400000,
+    "category": "Work",
+    "tags": ["meeting", "client", "presentation"],
+    "isPinned": true,
+    "color": 4294954751,
+    "status": "inProgress"
+  },
+  {
+    "id": "10",
+    "title": "Old Project Notes",
+    "content": "These are some old project notes that I'm archiving for future reference. Contains important decisions and rationale.",
+    "createdAt": 1703788800000,
+    "updatedAt": 1703788800000,
+    "category": "Work",
+    "tags": ["archive", "project", "reference"],
+    "isPinned": false,
+    "color": 4294967295,
+    "status": "archived"
+  }
+]
